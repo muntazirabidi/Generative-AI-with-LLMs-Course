@@ -4,7 +4,7 @@ A course by **DeepLearning.AI & Amazon Web Services**.
 
 ## About this Course
 
-In this course titled "Generative AI with Large Language Models (LLMs)", learners are introduced to the fundamentals of generative AI and its deployment in real-world applications.
+This course introduces the fundamentals of generative AI and its deployment in real-world applications.
 
 ### Learning Outcomes:
 
