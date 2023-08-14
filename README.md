@@ -2,6 +2,16 @@
 
 A course by **DeepLearning.AI & Amazon Web Services**.
 
+
+
+## About Generative AI
+
+Generative AI refers to a subset of artificial intelligence where the primary goal is to generate new, previously unseen content, which could range from images, music, and text, to more complex data structures. Unlike traditional AI models that provide a definite answer or classification, generative models output a range of possible solutions, often learned from vast amounts of data, making them exceptionally versatile in creative tasks.
+
+## About Large Language Models (LLMs)
+
+Large Language Models, or LLMs, are a type of generative AI specifically designed to handle, process, and generate human-like text. Built upon neural network architectures, especially transformers, these models are trained on vast datasets to understand and generate coherent and contextually relevant sentences. Due to their size and complexity, LLMs have demonstrated state-of-the-art performance in multiple tasks like translation, summarization, question-answering, and even creative writing.
+
 ## About this Course
 
 This course introduces the fundamentals of generative AI and its deployment in real-world applications.
