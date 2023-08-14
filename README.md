@@ -2,8 +2,6 @@
 
 A course by **DeepLearning.AI & Amazon Web Services**.
 
-
-
 ## About Generative AI
 
 Generative AI refers to a subset of artificial intelligence where the primary goal is to generate new, previously unseen content, which could range from images, music, and text, to more complex data structures. Unlike traditional AI models that provide a definite answer or classification, generative models output a range of possible solutions, often learned from vast amounts of data, making them exceptionally versatile in creative tasks.
