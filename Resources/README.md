@@ -12,6 +12,7 @@
 6. [**What is Generative AI?**](https://www.youtube.com/watch?v=G2fqAlgmoPo&list=RDLVeHPqfNLeous&index=21)
 
 ---
+### Explainable AI
 7. [**Explainabgle AI in FInancial Services**](https://www.youtube.com/watch?v=5gPpI993Wjg)
 
 --- 
