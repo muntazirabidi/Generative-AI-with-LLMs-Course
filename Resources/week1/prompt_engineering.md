@@ -23,6 +23,7 @@
 - **Zero-shot Inference:** Providing input without examples. Large models excel at this.
 
 ![One-SHot](./figures/one-shot.png)
+
 - **One-shot Inference:** Giving one example to guide the model.
 - **Few-shot Inference:** Using multiple examples to guide the model.
 
