@@ -15,12 +15,16 @@
   - Specific tasks (e.g., named entity recognition).
 - Specificity can save **time** and **compute cost**.
 
+![Scope](./figures/scope.png)
+
 ## 2. Model Choice
 - Decide whether to:
   - Train your model from scratch or 
   - Use an existing base model.
 - Generally, start with an existing model. But there are situations where training from scratch is beneficial.
 - More insights on this decision will be provided later in the course.
+
+![Select](./figures/select.png)
 
 ## 3. Adapt and Align
 - Assess model performance.
@@ -31,6 +35,8 @@
 - Importance of **evaluation**:
   - Use of metrics and benchmarks to measure performance.
   - This stage can be **highly iterative**; might go through prompt engineering, fine-tuning, and evaluation multiple times.
+
+![Adapt](./figures/adapt.png)
 
 ## 4. Deployment
 - Once performance and alignment are satisfactory, deploy the model.
@@ -43,6 +49,8 @@
   - Tendency to invent information.
   - Limited complex reasoning and mathematical capability.
 - The course will explore techniques to mitigate these limitations.
+
+![integration](./figures/integration.png)
 
 ## Conclusion
 - The Generative AI Project Life Cycle is complex but will be revisited multiple times throughout the course.
