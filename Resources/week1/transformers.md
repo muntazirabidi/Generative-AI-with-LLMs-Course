@@ -31,6 +31,7 @@
 ![Transformers Embedding](./figures/embedding.png)
 ![Self Attention](./figures/self-attention.png)
 ![Feed Forward](./figures/feed-forward.png)
+
 ---
 
 ## 4. Language Processing Steps
