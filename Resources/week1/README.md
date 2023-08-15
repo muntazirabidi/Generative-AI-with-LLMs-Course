@@ -5,13 +5,14 @@ This week, we delved deep into the world of Generative AI and Large Language Mod
 ## Contents
 - [Figures](./figures/)
 - [Introduction to Generative AI](./introduction.md)
+- [Introduction to Transformers](./transformers.md)
 - [GenAI & LLM Overview](./GenAI&LLM.md)
 - [Generative AI Project Lifecycle](./GenAI_project_lifecycle.md)
 - [Before Transformers Era](./before_transformers.md)
 - [Generating Text with AI](./generating_text.md)
 - [Configuration for Generative Models](./generative_configuration.md)
 - [Prompt Engineering Techniques](./prompt_engineering.md)
-- [Introduction to Transformers](./transformers.md)
+
 
 ## Notes
 
