@@ -22,11 +22,11 @@
 ## Types of Inference Based on Context
 - **Zero-shot Inference:** Providing input without examples. Large models excel at this.
 
-![ICL](./figures/one-shot.png)
+![One-SHot](./figures/one-shot.png)
 - **One-shot Inference:** Giving one example to guide the model.
 - **Few-shot Inference:** Using multiple examples to guide the model.
 
-![ICL](./figures/few-shot.png)
+![Few Shot](./figures/few-shot.png)
 
 ## Model Performance
 - Larger models with more parameters have a better grasp of language and can handle zero-shot inference impressively.
