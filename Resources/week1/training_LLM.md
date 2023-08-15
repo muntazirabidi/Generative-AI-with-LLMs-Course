@@ -71,6 +71,7 @@
 - Training LLMs, especially from scratch, can be resource-intensive and time-consuming. Fine-tuning is often a preferred strategy for new tasks.
 - Regularly save model checkpoints during training to avoid data loss from unexpected interruptions.
 - Experiment and iterate. Hyperparameter tuning, different architectures, and varying training data can all influence model performance.
+- [Prompt Engineering](https://www.amazon.science/blog/emnlp-prompt-engineering-is-the-new-feature-engineering)
 
   ---
   # FLAN-T5: An Overview
