@@ -21,7 +21,7 @@
 - Ability to handle larger training datasets.
 - Focuses on the "attention mechanism" which understands word meanings by considering the context.
 
-![Transfromers](./figures/transformers.jpg)
+![Transformers](./figures/transformers.png)
 
 
 
