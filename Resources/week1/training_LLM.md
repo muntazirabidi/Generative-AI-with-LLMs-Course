@@ -92,3 +92,13 @@ outputs = model.generate(**inputs)
 print(tokenizer.batch_decode(outputs, skip_special_tokens=True))
 # Output: ['Pour a cup of bolognese into a large bowl and add the pasta']
 ```
+## Understanding the transformers package components
+- AutoModelForSeq2SeqLM: A class from the Transformers library designed to provide a generic sequence-to-sequence model. It can auto-detect and load the correct model structure based on the given model's name or path. It's instrumental for initializing diverse pre-trained models, including FLAN-T5 in this context.
+
+- AutoTokenizer: A class in the Transformers library which ensures automatic tokenization of input text in line with the intricacies of the pre-trained model. By using the model name or path, it retrieves the relevant tokenizer to ensure accurate text pre-processing.
+
+- .from_pretrained(): A method to load a pre-trained model or tokenizer using a given name. It's particularly advantageous when you're dealing with renowned models, allowing you to initialize them without manually downloading weights and configurations.
+
+- .generate(): Exclusively for sequence-to-sequence models within the Transformers library, this method generates sequences from the input tokens. The resultant sequence can then be decoded to retrieve the generated text.
+
+- tokenizer.batch_decode(): This method converts the tokenized model output back to a human-readable format, simultaneously eliminating any special tokens.
