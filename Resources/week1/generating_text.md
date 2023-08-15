@@ -49,9 +49,9 @@ Imagine you're trying to send a secret message. You'd first convert (or "encode"
 
 In the context of machine learning:
 
-- ** Encoder:** It takes the input information (like a sentence in English) and compresses it into a more compact, meaningful representation, almost like a "code" that captures the essence of the input.
+- **Encoder:** It takes the input information (like a sentence in English) and compresses it into a more compact, meaningful representation, almost like a "code" that captures the essence of the input.
 
-- ** Decoder:** It takes that compact "code" produced by the encoder and expands it into a new form of information (like translating it into a sentence in French).
+- **Decoder:** It takes that compact "code" produced by the encoder and expands it into a new form of information (like translating it into a sentence in French).
 
 So, the encoder captures the important features of the input, and the decoder uses those features to produce a desired output.
 
