@@ -49,8 +49,24 @@ Imagine you're trying to send a secret message. You'd first convert (or "encode"
 
 In the context of machine learning:
 
-- Encoder: It takes the input information (like a sentence in English) and compresses it into a more compact, meaningful representation, almost like a "code" that captures the essence of the input.
+- ** Encoder:** It takes the input information (like a sentence in English) and compresses it into a more compact, meaningful representation, almost like a "code" that captures the essence of the input.
 
-- Decoder: It takes that compact "code" produced by the encoder and expands it into a new form of information (like translating it into a sentence in French).
+- ** Decoder:** It takes that compact "code" produced by the encoder and expands it into a new form of information (like translating it into a sentence in French).
 
 So, the encoder captures the important features of the input, and the decoder uses those features to produce a desired output.
+
+when discussing Large Language Models (LLMs) like GPT-3 or T5, the encoder and decoder components play specific roles, especially in the context of transformers:
+
+## Encoder in LLMs:
+The encoder processes the input data (like a sentence or a paragraph). Its job is to understand and capture the underlying patterns and information in that input. For instance, if you feed a sentence in English to the encoder, it'll transform this sentence into a dense representation that captures its meaning and structure. This representation is often a set of vectors that holds the essential details of the input.
+
+## Decoder in LLMs:
+The decoder takes the dense representation provided by the encoder and generates an output based on it. If we're translating English to French, the decoder will take the dense representation of the English sentence (produced by the encoder) and generate a corresponding sentence in French.
+
+In some LLMs, like GPT models, you typically interact with only the decoder. The decoder takes a prompt and continues generating text based on the information it has learned during training.
+
+In summary, in the context of LLMs:
+
+- The encoder comprehends the input.
+- The decoder generates meaningful output based on the comprehension from the encoder.- 
+For models like GPT, which are decoder-only, they generate outputs based on their extensive training data without needing a separate encoder step for every interaction.
