@@ -74,7 +74,8 @@
 - [Prompt Engineering](https://www.amazon.science/blog/emnlp-prompt-engineering-is-the-new-feature-engineering)
 
   ---
-  # FLAN-T5: An Overview
+
+# FLAN-T5: An Overview
 
 ## Background
 FLAN-T5, introduced in the paper **Scaling Instruction-Finetuned Language Models**, is an enhanced iteration of the T5 model that has been fine-tuned across a variety of tasks. The model stands out for its capability to quickly adapt to a diverse range of tasks without the necessity for explicit finetuning.
