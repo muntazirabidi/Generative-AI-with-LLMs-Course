@@ -3,8 +3,8 @@
 This week, we delved deep into the world of Generative AI and Large Language Models (LLMs). Below are the key files and directories associated with this week's content, along with some notes.
 
 ## Contents
-- [Introduction to Generative AI](./introduction.md)
 - [Figures](./figures/)
+- [Introduction to Generative AI](./introduction.md)
 - [GenAI & LLM Overview](./GenAI&LLM.md)
 - [Generative AI Project Lifecycle](./GenAI_project_lifecycle.md)
 - [Before Transformers Era](./before_transformers.md)
