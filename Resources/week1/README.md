@@ -2,17 +2,30 @@
 
 This week, we delved deep into the world of Generative AI and Large Language Models (LLMs). Below are the key files and directories associated with this week's content, along with some notes.
 
+## Imported Packages
+
+### `datasets`
+- **Function**: Provides a collection of datasets suitable for various machine learning tasks.
+- **Key Method**: `load_dataset` – Allows users to load datasets from the Hugging Face hub.
+- **Usage**: Typically used to load datasets for training, validation, or testing.
+
+### `transformers`
+- **Function**: A library that provides pre-trained models for numerous tasks in NLP.
+- **Key Classes and Methods**:
+  - `AutoModelForSeq2SeqLM`: Generic class to load sequence-to-sequence models.
+  - `AutoTokenizer`: Class to load tokenizers for converting text into tokens suitable for the model.
+  - `GenerationConfig`: Configuration object for controlling text generation parameters.
+
 ## Contents
 - [Figures](./figures/)
-- [Introduction to Generative AI](./introduction.md)
-- [Introduction to Transformers](./transformers.md)
 - [GenAI & LLM Overview](./GenAI&LLM.md)
 - [Generative AI Project Lifecycle](./GenAI_project_lifecycle.md)
+- [Introduction to Generative AI](./introduction.md)
 - [Before Transformers Era](./before_transformers.md)
 - [Generating Text with AI](./generating_text.md)
 - [Configuration for Generative Models](./generative_configuration.md)
 - [Prompt Engineering Techniques](./prompt_engineering.md)
-
+- [Introduction to Transformers](./transformers.md)
 
 ## Notes
 
@@ -51,5 +64,3 @@ This week, we delved deep into the world of Generative AI and Large Language Mod
 ---
 
 For more details on each topic, click on the respective links to access the full content. Happy Learning!
-
-
