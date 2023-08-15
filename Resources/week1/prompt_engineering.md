@@ -32,6 +32,8 @@
 
 ![Few Shot](./figures/few-shot.png)
 
+![Summary](./figures/summary_ICL.png)
+
 ## Model Performance
 - Larger models with more parameters have a better grasp of language and can handle zero-shot inference impressively.
 - Smaller models may require more context and examples and typically excel at tasks similar to their training.
