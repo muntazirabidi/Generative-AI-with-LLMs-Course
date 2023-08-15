@@ -36,7 +36,7 @@
   - Use of metrics and benchmarks to measure performance.
   - This stage can be **highly iterative**; might go through prompt engineering, fine-tuning, and evaluation multiple times.
 
-![Adapt](./figures/adapt.png)
+![Adapt](./figures/adapt-model.png)
 
 ## 4. Deployment
 - Once performance and alignment are satisfactory, deploy the model.
