@@ -1,4 +1,4 @@
-# Methods & Configuration Parameters for LLMs (Large Language Models)
+# Methods & Configuration Parameters for LLMs
 
 ## Overview
 - Understanding methods to influence LLM's next-word generation decisions.
