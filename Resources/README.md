@@ -7,3 +7,6 @@
 3. [**How LLM works?**](https://www.youtube.com/watch?v=5sLYAQS9sWQ&t=1s)
 4. [**What are Generative AI Models?**](https://www.youtube.com/watch?v=hfIUstzHs9A&t=227s)
 5. [**How to produce Enterprise-ready Foundations Models**](https://www.youtube.com/watch?v=eHPqfNLeous)
+
+#### Google Cloud Tech
+6. [**What is Generative AI?**](https://www.youtube.com/watch?v=G2fqAlgmoPo&list=RDLVeHPqfNLeous&index=21)
