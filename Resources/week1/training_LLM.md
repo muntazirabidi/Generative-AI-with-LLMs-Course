@@ -71,3 +71,24 @@
 - Training LLMs, especially from scratch, can be resource-intensive and time-consuming. Fine-tuning is often a preferred strategy for new tasks.
 - Regularly save model checkpoints during training to avoid data loss from unexpected interruptions.
 - Experiment and iterate. Hyperparameter tuning, different architectures, and varying training data can all influence model performance.
+
+  ---
+  # FLAN-T5: An Overview
+
+## Background
+FLAN-T5, introduced in the paper **Scaling Instruction-Finetuned Language Models**, is an enhanced iteration of the T5 model that has been fine-tuned across a variety of tasks. The model stands out for its capability to quickly adapt to a diverse range of tasks without the necessity for explicit finetuning.
+
+## Utilizing Pre-trained FLAN-T5 Weights
+Direct utilization of FLAN-T5's pre-trained weights is possible without needing any finetuning:
+
+```python
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+
+model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small")
+tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-small")
+
+inputs = tokenizer("A step by step recipe to make bolognese pasta:", return_tensors="pt")
+outputs = model.generate(**inputs)
+print(tokenizer.batch_decode(outputs, skip_special_tokens=True))
+# Output: ['Pour a cup of bolognese into a large bowl and add the pasta']
+```
