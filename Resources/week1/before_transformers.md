@@ -28,7 +28,7 @@
 # Domain Terms Explained:
 1. **Generative Algorithms:** Algorithms capable of generating new data that resembles some given set of data. In the context of language, these algorithms can produce coherent, contextually relevant sentences.
 
-2.** Recurrent Neural Networks (RNNs):** A type of neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, the spoken word, etc. They are called 'recurrent' because they perform the same task for every element of a sequence.
+2. **Recurrent Neural Networks (RNNs):** A type of neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, the spoken word, etc. They are called 'recurrent' because they perform the same task for every element of a sequence.
 
 3. **Homonyms:** Words that are spelled and pronounced the same way but have different meanings.
 
