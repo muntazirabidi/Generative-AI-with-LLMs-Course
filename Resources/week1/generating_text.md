@@ -42,3 +42,13 @@ The transformer architecture consists of encoder and decoder components.
 * You don't need to dive deep into the architecture for general use. Instead, understanding the broader concepts helps in model usage and reading documentation.
 * **Prompt engineering:** Focus on interacting with transformer models using natural language and creating prompts with words.
 
+---
+Imagine you're trying to send a secret message. You'd first convert (or "encode") the message into a code that only you and your friend understand. Then, when your friend receives it, they'd convert (or "decode") that code back into the original message to understand it.
+
+In the context of machine learning:
+
+- Encoder: It takes the input information (like a sentence in English) and compresses it into a more compact, meaningful representation, almost like a "code" that captures the essence of the input.
+
+- Decoder: It takes that compact "code" produced by the encoder and expands it into a new form of information (like translating it into a sentence in French).
+
+So, the encoder captures the important features of the input, and the decoder uses those features to produce a desired output.
