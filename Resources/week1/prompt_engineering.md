@@ -1,6 +1,9 @@
 
 # Prompt Engineering
 
+![Prompt Engineering](./figures/prompt-engineering.png)
+
+
 ## Terminologies
 - **Prompt:** The input text fed into the model.
 - **Inference:** The action of generating text.
