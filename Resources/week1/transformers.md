@@ -74,6 +74,7 @@
     - Normalizes logits into a probability score.
     - Predicts the most likely next token.
 
+![Softmax](./figures/softmax.png)
 ---
 
 ## Why is Embedding Important in NLP?
