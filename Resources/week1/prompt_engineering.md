@@ -17,14 +17,17 @@
 - A method to provide models, especially LLMs (Large Language Models), with more context by including examples or additional data in the prompt.
 - Helps models better understand the task.
 
-![ICL](./figures/ICL.png)
+
 
 ## Types of Inference Based on Context
 - **Zero-shot Inference:** Providing input without examples. Large models excel at this.
 
-![One-SHot](./figures/one-shot.png)
+![ICL](./figures/ICL.png)
 
 - **One-shot Inference:** Giving one example to guide the model.
+
+![One-SHot](./figures/one-shot.png)
+
 - **Few-shot Inference:** Using multiple examples to guide the model.
 
 ![Few Shot](./figures/few-shot.png)
