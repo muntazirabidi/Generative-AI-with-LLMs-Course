@@ -25,4 +25,5 @@ The Transformer architecture consists of an encoder and a decoder, each of which
 
 The Transformer model also uses residual connections and layer normalization to facilitate training and prevent overfitting. In addition, the authors introduce a positional encoding scheme that encodes the position of each token in the input sequence, enabling the model to capture the order of the sequence without the need for recurrent or convolutional operations.
 
-[Transformer Architecture](./figures/full-transformer.png)
+![Transformer Architecture](./figures/full-transformer.png)
+
