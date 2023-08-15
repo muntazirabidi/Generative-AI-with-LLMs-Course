@@ -27,10 +27,9 @@
     - Inspired by the original paper "Attention is All You Need."
 
 ![Transformers Artchitecture Overview](./figures/simple_transformer.png)
-![Transformers Input](./figures/transformer_input.png)
-![Transformers Embedding](./figures/embedding.png)
-![Self Attention](./figures/self-attention.png)
-![Feed Forward](./figures/feed-forward.png)
+
+
+
 
 ---
 
@@ -40,12 +39,16 @@
     - Words represented by a position in a dictionary.
     - Types: Complete words or parts of words.
 
+![Transformers Input](./figures/transformer_input.png)
+
 2. **Embedding Layer:**
     - Converts token IDs into vectors within a high-dimensional space.
     - Each token ID matched to a multi-dimensional vector.
     - Vector captures meaning and context.
     - Used in older models like Word2vec as well.
     - Example: Vector size in original transformer paper = 512.
+
+![Transformers Embedding](./figures/embedding.png)
 
 3. **Positional Encoding:**
     - Added to token vectors.
@@ -58,10 +61,15 @@
     - Each head learns a different aspect of language.
     - Number of heads can range between 12-100.
 
+![Self Attention](./figures/self-attention.png)
+
 5. **Feed-Forward Network:**
     - Processes the output from self-attention.
     - Outputs a vector of logits, each representing a probability score for tokens.
-  
+
+
+![Feed Forward](./figures/feed-forward.png)
+
 6. **Softmax Layer:**
     - Normalizes logits into a probability score.
     - Predicts the most likely next token.
