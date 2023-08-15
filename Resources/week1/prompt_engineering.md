@@ -48,5 +48,3 @@
 
 ## Configuration Settings
 - Once the right model is chosen, one can play around with settings to influence the generated completions.
-
-**Note:** For more in-depth details on configuration settings, refer to the upcoming video.
