@@ -1,4 +1,4 @@
-# **Transformer Architecture Overview**
+# **Text Generation**
 
 ## **Main Components**
 The transformer architecture consists of encoder and decoder components.
