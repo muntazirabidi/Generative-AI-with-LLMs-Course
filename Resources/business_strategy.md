@@ -1,8 +1,5 @@
 # Business Executives: Introduction
 
-## Speaker Introduction
-- **Name:** Kate Soule
-- **Position:** Senior Manager of Business Strategy at IBM Research
 - **Presentation Topic:** Strategies to improve foundation model's trustworthiness and efficiency for enterprise deployment.
 
 ## Foundation Model Components
