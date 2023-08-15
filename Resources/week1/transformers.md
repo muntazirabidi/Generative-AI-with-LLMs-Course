@@ -27,6 +27,8 @@
     - Inspired by the original paper "Attention is All You Need."
 
 ![Transformers Artchitecture Overview](./figures/simple_transformer.png)
+![Transformers Input](./figures/transformer_input.png)
+![Transformers Embedding](./figures/embedding.png)
 ---
 
 ## 4. Language Processing Steps
