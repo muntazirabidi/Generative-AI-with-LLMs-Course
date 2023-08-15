@@ -1,5 +1,5 @@
 
-# Notes on Generative AI and LLMs
+# Prompt Engineering
 
 ## Terminologies
 - **Prompt:** The input text fed into the model.
