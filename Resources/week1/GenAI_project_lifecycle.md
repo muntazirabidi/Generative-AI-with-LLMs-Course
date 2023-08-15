@@ -4,6 +4,9 @@
 - The course will cover the techniques required to **develop and deploy an LLM-powered application**.
 - Emphasis on the **Generative AI Project Life Cycle** that will guide the project from conception to launch.
 
+![Project Lifecycle](./figures/project-liofecycle.png)
+
+
 ## 1. Define the Scope
 - **Most crucial step** in any project.
 - Narrow and accurate definition of scope is essential.
