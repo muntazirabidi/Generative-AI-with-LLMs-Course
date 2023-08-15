@@ -1,5 +1,5 @@
 # Methods & Configuration Parameters for LLMs
-
+![Generative Configuration](./figures/configuration.png)
 ## Overview
 - Understanding methods to influence LLM's next-word generation decisions.
 - Configuration parameters adjust how the LLM behaves during inference.
