@@ -1,4 +1,4 @@
-## Introduction to Generative Algorithms
+# Introduction to Generative Algorithms
 - Generative algorithms have been around for a while, they are not new.
 
 ## Previous Generations: RNNs
