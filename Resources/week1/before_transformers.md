@@ -21,6 +21,10 @@
 - Ability to handle larger training datasets.
 - Focuses on the "attention mechanism" which understands word meanings by considering the context.
 
+![Transfromers](./figures/transformers.jpg)
+
+
+
 # Domain Terms Explained:
 1. **Generative Algorithms:** Algorithms capable of generating new data that resembles some given set of data. In the context of language, these algorithms can produce coherent, contextually relevant sentences.
 
